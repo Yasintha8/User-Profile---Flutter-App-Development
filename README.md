@@ -1,4 +1,4 @@
-# User Profile - Flutter App Development
+# 🏆 User Profile - Flutter App  
 
 ## 📌 Overview  
 The **User Profile** app is a Flutter-based project that showcases the user's profile details. Users can add points by clicking the + button. The app follows a clean UI/UX design and ensures smooth user interactions.
@@ -14,9 +14,8 @@ The **User Profile** app is a Flutter-based project that showcases the user's pr
 - **Language:** Dart  
 - **UI Components:** Material Design / Custom Widgets  
 
-## 📸 Watch the demo
-[Click here to watch the demo video](https://github.com/Yasintha8/User-Profile---Flutter-App-Development/blob/main/assets/samplevideo.mp4)
-
+## 📸 Screenshots  
+![App Demo](https://raw.githubusercontent.com/Yasintha8/User-Profile---Flutter-App-Development/main/assets/samplevideo.gif)
 
 ## 🔧 Installation  
 1. Clone the repository:  
