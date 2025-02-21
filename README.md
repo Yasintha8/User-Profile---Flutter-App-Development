@@ -15,7 +15,7 @@ The **User Profile** app is a Flutter-based project that showcases the user's pr
 - **UI Components:** Material Design / Custom Widgets  
 
 ## 📸 Watch the demo  
-![App Demo](https://raw.githubusercontent.com/Yasintha8/User-Profile---Flutter-App-Development/main/assets/samplevideo.gif)
+![App Demo](https://github.com/Yasintha8/User-Profile---Flutter-App-Development/blob/main/assets/samplevideo.mp4)
 
 ## 🔧 Installation  
 1. Clone the repository:  
