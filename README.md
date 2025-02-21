@@ -1,4 +1,4 @@
-# 🏆 User Profile - Flutter App  
+# User Profile - Flutter App  
 
 ## 📌 Overview  
 The **User Profile** app is a Flutter-based project that showcases the user's profile details. Users can add points by clicking the + button. The app follows a clean UI/UX design and ensures smooth user interactions.
